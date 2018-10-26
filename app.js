@@ -1,0 +1,1 @@
+console.log('Hellooo all you Chinese people!');
